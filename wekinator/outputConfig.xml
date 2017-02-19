@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<OSCOutputGroup>
+  <oscMessage>/wek/outputs</oscMessage>
+  <hostName>illumina.lpc</hostName>
+  <outputPort>12000</outputPort>
+  <outputs class="linked-list">
+    <wekimini.osc.OSCClassificationOutput>
+      <name>Notes</name>
+      <numClasses>7</numClasses>
+      <isSendingDistribution>false</isSendingDistribution>
+    </wekimini.osc.OSCClassificationOutput>
+    <wekimini.osc.OSCClassificationOutput>
+      <name>Octave</name>
+      <numClasses>3</numClasses>
+      <isSendingDistribution>false</isSendingDistribution>
+    </wekimini.osc.OSCClassificationOutput>
+    <wekimini.osc.OSCClassificationOutput>
+      <name>Occidentals</name>
+      <numClasses>3</numClasses>
+      <isSendingDistribution>false</isSendingDistribution>
+    </wekimini.osc.OSCClassificationOutput>
+  </outputs>
+</OSCOutputGroup>
