@@ -1,7 +1,7 @@
 # WiredASL
 WiredASL is a BlockyTalky program which takes hand gesture inputs and returns musical outputs.
 
-It was designed with deaf and hard of hearing students in mind, and also as an instrument for people with little to no musical experience. The note is determined by a right hand signal, the occidental (flat/sharp/natural) by a left hand signal, and the octave by raising or lowering the left arm. In its current state it works best with two people, one gesturing the note and occidental and the other gesturing the octave.
+One endproduct of University of Colorado in Boulder's Makerspace Hackathon in 2017, WiredASL was designed with deaf and hard of hearing students in mind, and also as an instrument for people with little to no musical experience. The note is determined by a right hand signal, the occidental (flat/sharp/natural) by a left hand signal, and the octave by raising or lowering the left arm. In its current state it works best with two people, one gesturing the note and occidental and the other gesturing the octave.
 
 ## Data Flow
 WiredASL takes input from two sources: a Leap Motion and a Kinect.
